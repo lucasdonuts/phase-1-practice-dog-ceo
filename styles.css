@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+#dog-breeds {
+  display: inline-grid;
+  list-style-type: none;
+}
